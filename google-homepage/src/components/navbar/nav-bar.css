@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-flow: row wrap;
+  padding: 2% 3%;
+}
+
+.nav-bar-first-item {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 25px;
+}
+
+ul li {
+  color: #000;
+  font-size: 1rem;
+}
+
+.nav-bar-second-item {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 25px;
+}

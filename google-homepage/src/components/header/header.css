@@ -1,0 +1,49 @@
+header {
+  text-align: center;
+}
+
+.g {
+  color: #4285f4;
+}
+
+.o {
+  color: rgb(234, 67, 53);
+}
+
+.o2 {
+  color: #fbbc05;
+}
+
+.g2 {
+  color: #4285f4;
+}
+
+.l {
+  color: #34a853;
+}
+
+.e {
+  color: rgb(234, 67, 53);
+}
+
+input {
+  padding: 15px 200px;
+  outline: none;
+  border: 1px solid rgb(238, 236, 236);
+  border-radius: 25px;
+  position: relative;
+  top: 25px;
+}
+
+button {
+  position: relative;
+  top: 45px;
+  padding: 15px 26px;
+  border: none;
+  outline: none;
+  color: #333;
+  background-color: #f8f9fa;
+  margin: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
